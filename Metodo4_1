@@ -1,0 +1,12 @@
+public class Metodo4_1 {
+	public static void main(String []args){
+		int suma = suma(3,4);
+		System.out.println("El resultado de la suma es= "+suma);
+	}
+		public static int suma(int x,int y) {
+			int suma = x+y;
+			return suma;
+			
+		
+}
+}
